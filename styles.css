@@ -330,8 +330,8 @@ thead th {
     font-size: 12px;
     font-weight: bold;
     text-decoration: none;
+    
 }
-
 .social a:hover {
     background: var(--white);
     color: var(--text);
